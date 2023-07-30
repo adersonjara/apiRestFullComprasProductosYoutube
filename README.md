@@ -3,9 +3,9 @@
 1. <b>git clone https://github.com/adersonjara/apiRestFullComprasProductosYoutube.git</b>
 2. <b>cd apiRestFullComprasProductosYoutube</b>
 3. Instalar las dependencias del proyecto con: <b>composer install</b>
-4. Configurar el archivo .env.example y dejarlo como .env y dentro colocar todas las variables de entorno de nuestro proyecto.
+4. Configurar el archivo <b>.env.example</b> y dejarlo como <b>.env</b> y dentro colocar todas las variables de entorno de nuestro proyecto.
 5. Creamos la base de datos para nuestro proyecto.
-6. Generar una APP_KEY que es una llave para cada proyecto de Laravel se puede generar con este comando: <b>php artisan key:generate</b>
+6. Generar una <b>APP_KEY</b> que es una llave para cada proyecto de Laravel se puede generar con este comando: <b>php artisan key:generate</b>
 6. Generar las migraciones y ejecutar los seeders para nuestras tablas de base de datos con este comando: <b>php artisan migrate --seed</b>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
